@@ -2,6 +2,25 @@
 
 A comprehensive Inter-Process Communication (IPC) framework with security features, built with C backend and modern web frontend.
 
+## 📸 Dashboard Preview
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./docs/screenshots/dashboard-overview.png" width="480" alt="IPC Framework dashboard — stats, IPC methods panel, and security panel" /><br />
+      <sub><b>Stats, IPC Methods & Security</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./docs/screenshots/dashboard-full.png" width="480" alt="IPC Framework full dashboard — activity feed and system reports" /><br />
+      <sub><b>Full Dashboard — Activity Feed & System Reports</b></sub>
+    </td>
+  </tr>
+</table>
+
+*Screenshots above are from the browser simulation mode described below — no backend required.*
+
 ## 🚀 How It's Running
 
 ### Current Mode: **Browser Simulation**
